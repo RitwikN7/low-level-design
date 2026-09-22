@@ -1,3 +1,8 @@
+/*
+    - Use the policy pattern as an alternative to polymorphism when behavior is fixed at
+   instantiation
+*/
+
 #include <fstream>
 #include <iostream>
 #include <string>

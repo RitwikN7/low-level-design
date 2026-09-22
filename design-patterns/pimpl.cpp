@@ -1,3 +1,7 @@
+/*
+    - Use the pimpl pattern for faster compilation and safe public interfaces
+*/
+
 // Header File Widget.h
 
 #ifndef WIDGET_H

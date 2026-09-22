@@ -1,3 +1,8 @@
+/*
+    - Singleton classes are useful for global instances of config files, loggers etc.
+    - Simplest implementation below (Meyer's Singleton)
+*/
+
 #include <string>
 
 class DatabaseConnection

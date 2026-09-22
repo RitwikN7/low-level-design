@@ -1,3 +1,7 @@
+/*
+    - CRTP is useful for avoiding runtime polymorphism
+*/
+
 #include <iostream>
 
 // Pre C++23

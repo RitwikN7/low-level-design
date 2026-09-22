@@ -1,3 +1,8 @@
+/*
+    - Builder pattern is useful when you need to construct objects in a flexible manner.
+    - Use the final build() function to check for logical correctness.
+*/
+
 #include <map>
 #include <stdexcept>
 #include <string>

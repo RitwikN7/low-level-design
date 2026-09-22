@@ -1,3 +1,7 @@
+/*
+    - Use factory pattern to move all messy if/else creation logic to one class
+*/
+
 #include <memory>
 #include <stdexcept>
 #include <string>

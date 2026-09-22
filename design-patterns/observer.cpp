@@ -1,3 +1,7 @@
+/*
+    - Use observer pattern when an update in one class needs to be notified to other objects
+*/
+
 #include <algorithm>
 #include <iostream>
 #include <string>

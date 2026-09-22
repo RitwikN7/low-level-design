@@ -1,3 +1,7 @@
+/*
+    - Use strategy pattern to change behavior at runtime
+*/
+
 #include <iostream>
 #include <memory>
 #include <string>

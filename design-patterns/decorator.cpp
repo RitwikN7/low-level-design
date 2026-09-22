@@ -1,5 +1,10 @@
+/*
+    - Use decorator pattern to modify behavior at runtime by chaining rather than changing
+*/
+
 #include <memory>
 #include <string>
+#include <utility>
 
 class DataSource
 {

@@ -1,3 +1,7 @@
+/*
+    - Use the registry pattern when creating derived objects depends on dynamic parameters
+*/
+
 #include <functional>
 #include <iostream>
 #include <memory>
